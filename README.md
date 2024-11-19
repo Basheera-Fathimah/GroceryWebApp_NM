@@ -14,14 +14,11 @@ Grocio is a MERN-stack-based grocery web application designed to provide users w
 2. [Features](#features)
 3. [Technology Stack](#technology-stack)
 4. [Setup Instructions](#setup-instructions)
-5. [Folder Structure](#folder-structure)
-6. [Running the Application](#running-the-application)
-7. [API Documentation](#api-documentation)
-8. [Authentication](#authentication)
-9. [Screenshots](#screenshots)
-10. [Testing](#testing)
-11. [Known Issues](#known-issues)
-12. [Future Enhancements](#future-enhancements)
+5. [Running the Application](#running-the-application)
+6. [Authentication](#authentication)
+7. [Testing](#testing)
+8. [Known Issues](#known-issues)
+9. [Future Enhancements](#future-enhancements)
 
 ---
 
@@ -129,29 +126,10 @@ Grocio is a platform designed to simplify grocery shopping. It combines smart re
 
 ---
 
-## **API Documentation**
-Refer to the detailed API documentation [here](./docs/api-docs.md).  
-
----
 
 ## **Authentication**
 - Uses JWT-based authentication.  
 - Token issued during login for secure route access (e.g., cart, orders).  
-
----
-
-## **Screenshots**
-### **Home Page**
-Displays featured categories and promotions.
-
-### **Product Page**
-Lists products with sorting and filtering options.
-
-### **Cart & Checkout**
-Interactive cart summary with secure payment options.
-
-### **Order Tracking**
-Tracks order progress from placement to delivery.
 
 ---
 
